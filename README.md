@@ -1,7 +1,8 @@
 # 💫 About Me:
-I'm currently working on ## NotesAndroidApp https://github.com/mossssama/NotesAndroidApp
-<br>                     ## Graduation Project https://github.com/HaidyGamal/GP-AndroidApp
-<br>I'm currently learning Android Development & Ai
+I'm currently working on 
+## NotesAndroidApp https://github.com/mossssama/NotesAndroidApp<br>
+## Graduation Project https://github.com/HaidyGamal/GP-AndroidApp<br>
+I'm currently learning Android Development & Ai
 
 
 ## 🌐 Socials:
