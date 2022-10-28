@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on NotesAndroidApp<br>I'm currently learning Android Development & Ai
+I'm currently working on NotesAndroidApp & Graduation Project https://github.com/HaidyGamal/GP-AndroidApp<br>I'm currently learning Android Development & Ai
 
 
 ## 🌐 Socials:
