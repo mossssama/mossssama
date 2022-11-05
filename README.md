@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently working on<br>[Notes App](https://github.com/mossssama/Notella)<br>[Graduation Project](https://github.com/HaidyGamal/GP-AndroidApp)
+I'm currently working on
+<br>[Notes App](https://github.com/mossssama/Notella)
+<br>[Graduation Project](https://github.com/HaidyGamal/GP-AndroidApp)
+<br>[Android in Java](https://github.com/mossssama/AndroidJavaClasses)
 
 
 ## 🌐 Socials:
