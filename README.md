@@ -7,14 +7,14 @@ I'm currently working on
 <br> - **Notella** : Notes android application rather than redundant Notes app mentioned in youtube tuturoials [**GitHubRepo**](https://github.com/mossssama/Notella) | [**onPlayStore**](https://play.google.com/store/apps/details?id=com.mOssssama.notesapp)
 
 # 📖 Documentations:
-<br> - **GitOsOs** : Cheat Sheet el-Ghalaba for git Commands [**GitHubRepo**](https://github.com/mossssama/GitOsOs)
-<br> - **AndoridJava** : Modules for useful capabilities in Android by Java language [**GitHubRepo**](https://github.com/mossssama/AndroidJavaClasses)
+<br> - **[GitOsOs](https://github.com/mossssama/GitOsOs)** : Cheat Sheet el-Ghalaba for git Commands
+<br> - **[AndoridJava](https://github.com/mossssama/AndroidJavaClasses)** : Modules for useful capabilities in Android by Java language
 
 # 🌐 Socials:
-<br>[YouTube](https://youtube.com/c/@mossssama)
-<br>[Facebook](https://facebook.com/mossssama)
-<br>[Udemy](https://www.udemy.com/user/mohammad-osama-saleh-ahmad/) 
-<br>[Twitter](https://www.twitter.com/mossssama) 
+  <br> - [**YouTube**](https://youtube.com/c/@mossssama)
+  <br> - [**Facebook**](https://facebook.com/mossssama)
+  <br> - [**Udemy**](https://www.udemy.com/user/mohammad-osama-saleh-ahmad/) 
+  <br> - [**Twitter**](https://www.twitter.com/mossssama) 
 
 
 ## 💻 Tech Stack:
