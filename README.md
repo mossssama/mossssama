@@ -8,7 +8,7 @@ I'm currently working on
 
 # 📖 Documentations:
 <br> - **[GitOsOs](https://github.com/mossssama/GitOsOs)** : Cheat Sheet el-Ghalaba for git Commands
-<br> - **[AndoridJava](https://github.com/mossssama/AndroidJavaClasses)** : Modules for useful capabilities in Android by Java language
+<br> - **[Android](https://github.com/mossssama/AndroidJavaClasses)** : Modules for useful capabilities in Android by Java language
 
 # 🌐 Socials:
   <br> - [**YouTube**](https://youtube.com/c/@mossssama)
