@@ -1,9 +1,10 @@
 # 💫 About Me:
-I'm currently working on [**Public Transportation Guidance as Graduation Project**](https://github.com/HaidyGamal/GP-AndroidApp)
+I'm currently working on [**SnapWake** _Kotlin/Compose app_](https://github.com/mossssama/SnapWake)
 
 # 📱 Projects:
-<br> - **Notella** : Notes android application rather than redundant Notes to increase productivity [**GitHubRepo**](https://github.com/mossssama/Notella) | [**onPlayStore**](https://play.google.com/store/apps/details?id=com.mOssssama.notesapp)
-<br> - **Tawsila** : Public transportation android application to facilite navigating Great Cairo using public transports [**GitHubRepo**](https://github.com/HaidyGamal/GP-AndroidApp) | **onPlayStore Soon**
+<br> - **Notella** : **Java/XML based** android application rather than redundant Notes to increase productivity [**GitHubRepo**](https://github.com/mossssama/Notella) | [**onPlayStore**](https://play.google.com/store/apps/details?id=com.mOssssama.notesapp)
+<br> - **Color Craze** : **Kotlin/XML based** android game that tests brain & eyes comptability while playing [**GitHubRepo**](https://github.com/mossssama/ColorGame) | [**onPlayStore**](https://play.google.com/store/apps/details?id=com.newOs.colorCraze)
+<br> - **Tawsila** : **Java/XML based** android application that facilites navigating Great Cairo using public transports [**GitHubRepo**](https://github.com/HaidyGamal/GP-AndroidApp) | **onPlayStore Soon**
 
 # 📖 Documentations:
 <br> - **[GitOsOs](https://github.com/mossssama/GitOsOs)** : Cheat Sheet el-Ghalaba for git Commands
