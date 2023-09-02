@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently working on [**SnapWake** _Kotlin/Compose app_](https://github.com/mossssama/SnapWake)
-
+I'm studying JetPack Compose & Flutter & working on CodSoft virtual internship tasks
 # 📱 Projects:
 <br> - **Notella** : **Java/XML based** android application rather than redundant Notes to increase productivity [**GitHubRepo**](https://github.com/mossssama/Notella) | [**onPlayStore**](https://play.google.com/store/apps/details?id=com.mOssssama.notesapp)
 <br> - **Color Craze** : **Kotlin/XML based** android game that tests brain & eyes comptability while playing [**GitHubRepo**](https://github.com/mossssama/ColorGame) | [**onPlayStore**](https://play.google.com/store/apps/details?id=com.newOs.colorCraze)
