@@ -4,7 +4,7 @@ I'm currently studying JetPack Compose & Flutter
 <br> - **Notella** : **Java/XML based** creative application rather than redundant Notes to increase productivity [**GitHubRepo**](https://github.com/mossssama/Notella) | [**onPlayStore**](https://play.google.com/store/apps/details?id=com.mOssssama.notesapp)
 <br> - **Color Craze** : **Kotlin/XML based** game that tests brain & eyes comptability while playing [**GitHubRepo**](https://github.com/mossssama/ColorGame) | [**onPlayStore**](https://play.google.com/store/apps/details?id=com.newOs.colorCraze)
 <br> - **Tawsila** : **Java/XML based** application that facilites navigating Great Cairo using public transports [**GitHubRepo**](https://github.com/HaidyGamal/GP-AndroidApp) | [**Demo**](https://www.youtube.com/watch?v=ogHvqx3w7lY)
-<br> - **CaptureRise** : **Kotlin/XML based** creative alarm that keeps ringing until the user capture a specific asked object [**GitHubRepo**](https://github.com/mossssama/CaptureRise) | [**onPlayStore**](https://play.google.com/store/apps/details?id=com.newOs.captureRise)
+<br> - **CaptureRise** : **Kotlin/XML based** alarm that keeps ringing until the user capture a specific asked object [**GitHubRepo**](https://github.com/mossssama/CaptureRise) | [**onPlayStore**](https://play.google.com/store/apps/details?id=com.newOs.captureRise)
 <br> - **Quotivate** : **Kotlin/Compose based** quotes app that provides dynamic quotes [**GitHubRepo**](https://github.com/mossssama/Quotivate) | **Soon**
 <br> - **DoIt!** : **Flutter** daily toDo app allowing creating/editing/deleting/tracking toDos [**GitHubRepo**](https://github.com/mossssama/DoIt) | [**onPlayStore**](https://play.google.com/store/apps/details?id=com.newOs.doIt)
 # 📖 Documentations:
