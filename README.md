@@ -5,7 +5,7 @@ I'm currently studying JetPack Compose & Flutter
 <br> - **Color Craze** : **Kotlin/XML based** game that tests brain & eyes comptability while playing [**README**](https://github.com/mossssama/ColorGame) | [**onPlayStore**](https://play.google.com/store/apps/details?id=com.newOs.colorCraze)
 <br> - **Tawsila** : **Java/XML based** application that facilites navigating Great Cairo using public transports [**README**](https://github.com/HaidyGamal/GP-AndroidApp) | [**Demo**](https://www.youtube.com/watch?v=ogHvqx3w7lY)
 <br> - **CaptureRise** : **Kotlin/XML based** alarm that keeps ringing until the user capture a specific asked object [**README**](https://github.com/mossssama/CaptureRise) | [**onPlayStore**](https://play.google.com/store/apps/details?id=com.newOs.captureRise)
-<br> - **Quotivate** : **Kotlin/Compose based** quotes app that provides dynamic quotes [**README**](https://github.com/mossssama/Quotivate) | **Soon**
+<br> - **Quotivate** : **Kotlin/Compose based** quotes app that provides dynamic quotes [**README**](https://github.com/mossssama/Quotivate) | [**Soon**](https://play.google.com/store/apps/details?id=com.newOs.quotivate)
 <br> - **DoIt!** : **Flutter** daily toDo app allowing creating/editing/deleting/tracking toDos [**README**](https://github.com/mossssama/DoIt) | [**onPlayStore**](https://play.google.com/store/apps/details?id=com.newOs.doIt)
 # 📖 Documentations:
 <br> - **[GitOsOs](https://github.com/mossssama/GitOsOs)** : Cheat Sheet el-Ghalaba for git Commands
