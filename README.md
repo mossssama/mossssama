@@ -1,19 +1,21 @@
 # 💫 About Me:
 I'm currently studying JetPack Compose & Flutter
 # 📱 Projects:
-<br> - **Notella** : **Java/XML based** creative application rather than redundant Notes to increase productivity [**README**](https://github.com/mossssama/Notella) | [**onPlayStore**](https://play.google.com/store/apps/details?id=com.mOssssama.notesapp)
-<br> - **Color Craze** : **Kotlin/XML based** game that tests brain & eyes comptability while playing [**README**](https://github.com/mossssama/ColorGame) | [**onPlayStore**](https://play.google.com/store/apps/details?id=com.newOs.colorCraze)
-<br> - **Tawsila** : **Java/XML based** application that facilites navigating Great Cairo using public transports [**README**](https://github.com/HaidyGamal/GP-AndroidApp) | [**Demo**](https://www.youtube.com/watch?v=ogHvqx3w7lY)
-<br> - **CaptureRise** : **Kotlin/XML based** alarm that keeps ringing until the user capture a specific asked object [**README**](https://github.com/mossssama/CaptureRise) | [**onPlayStore**](https://play.google.com/store/apps/details?id=com.newOs.captureRise)
-<br> - **Quotivate** : **Kotlin/Compose based** quotes app that provides dynamic quotes [**README**](https://github.com/mossssama/Quotivate) | [**onPlayStore**](https://play.google.com/store/apps/details?id=com.newOs.quotivate)
-<br> - **DoIt!** : **Flutter** daily toDo app allowing creating/editing/deleting/tracking toDos [**README**](https://github.com/mossssama/DoIt) | [**onPlayStore**](https://play.google.com/store/apps/details?id=com.newOs.doIt)
+| Project Name | Languages/Tools | Description                                                               | ReadMe                                              | onPlayStore                                                                   |
+|---------------|-----------------|--------------------------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------------------------------|
+| **_Quotivate_** | Jetpack Compose | Quotes app that provides dynamic quotes                                  | [**open**](https://github.com/mossssama/Quotivate)  | [**try**](https://play.google.com/store/apps/details?id=com.newOs.quotivate)  |
+|**_Color Craze_**| Kotlin + XML    | Game that tests brain & eyes comptability while playing                  | [**open**](https://github.com/mossssama/ColorGame)  | [**try**](https://play.google.com/store/apps/details?id=com.newOs.colorCraze) |
+|**_CaptureRise_**| Kotlin + XML    | Alarm that keeps ringing until the user capture a specific asked object  | [**open**](https://github.com/mossssama/CaptureRise)| [**try**](https://play.google.com/store/apps/details?id=com.newOs.captureRise)|
+| **_Tawsila_**   | Java + XML      | Public transport navigation app for Great Cairo                          | [**open**](https://github.com/HaidyGamal/GP-AndroidApp)  | [**watch**](https://www.youtube.com/watch?v=ogHvqx3w7lY)                  |
+| **_Notella_**   | Java + XML      | Creative well separated Notes to increase productivity                   | [**open**](https://github.com/mossssama/Notella)    | [**try**](https://play.google.com/store/apps/details?id=com.mOssssama.notesapp) |
+| **_DoIt!_**     | Flutter         | Daily to-do app for creating/editing/deleting/tracking to-dos | [**open**](https://github.com/mossssama/DoIt) | [**try**](https://play.google.com/store/apps/details?id=com.newOs.doIt)  |
+
 # 📖 Documentations:
-<br> - **[GitOsOs](https://github.com/mossssama/GitOsOs)** : Cheat Sheet el-Ghalaba for git Commands
-<br> - **[Android](https://github.com/mossssama/AndroidJavaClasses)** : Useful Generic repos for Android Development in Java & Kotlin
+- **[GitOsOs](https://github.com/mossssama/GitOsOs)** : Cheat Sheet el-Ghalaba for git Commands
+- **[Android](https://github.com/mossssama/AndroidJavaClasses)** : Useful Generic repos for Android Development in Java & Kotlin
 
 # 🌐 Tutors:
-  <br> - [**YouTube**](https://youtube.com/c/@mossssama)
-  <br> - [**Udemy**](https://www.udemy.com/user/mohammad-osama-saleh-ahmad/) 
+- Check my tutorials on [**_YouTube_**](https://youtube.com/c/@mossssama) & [**_Udemy_**](https://www.udemy.com/user/mohammad-osama-saleh-ahmad/) 
 
 
 ## 💻 Tech Stack:
