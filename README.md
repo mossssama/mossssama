@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm currently studying JetPack Compose & Flutter
-# 📱 Projects:
+Mobile Developer @FEDIS | DECI Instructor @alMentor | Online Tutor
+# 📱 Previous Projects:
 | Project Name | Languages/Tools | Description                                                               | ReadMe                                              | onPlayStore                                                                   |
 |---------------|-----------------|--------------------------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------------------------------|
 | **_Quotivate_** | Jetpack Compose | Quotes app that provides dynamic quotes                                  | [**open**](https://github.com/mossssama/Quotivate)  | [**try**](https://play.google.com/store/apps/details?id=com.newOs.quotivate)  |
@@ -13,6 +13,9 @@ I'm currently studying JetPack Compose & Flutter
 # 📖 Documentations:
 - **[GitOsOs](https://github.com/mossssama/GitOsOs)** : Cheat Sheet el-Ghalaba for git Commands
 - **[Android](https://github.com/mossssama/AndroidJavaClasses)** : Useful Generic repos for Android Development in Java & Kotlin
+
+# 📖 Illustration:
+- **[Flutter In Action](https://github.com/mossssama/flutterInAction)** : Useful Illustration of Flutter In Action book in bullets
 
 # 🌐 Tutors:
 - Check my tutorials on [**_YouTube_**](https://youtube.com/c/@mossssama) & [**_Udemy_**](https://www.udemy.com/user/mohammad-osama-saleh-ahmad/) 
