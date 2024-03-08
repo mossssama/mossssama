@@ -10,11 +10,14 @@ Mobile Developer @FEDIS | DECI Instructor @alMentor | Online Tutor
 | **_Notella_**   | Java + XML      | Creative well separated Notes to increase productivity                   | [**open**](https://github.com/mossssama/Notella)    | [**try**](https://play.google.com/store/apps/details?id=com.mOssssama.notesapp) |
 | **_DoIt!_**     | Flutter         | Daily to-do app for creating/editing/deleting/tracking to-dos | [**open**](https://github.com/mossssama/DoIt) | [**try**](https://play.google.com/store/apps/details?id=com.newOs.doIt)  |
 
+# 📖 Packages:
+- **[Rectangular Stepper](https://pub.dev/packages/rectangular_stepper)** : A customizable and visually appealing widget for creating horizontal step indicators with support for sub-steps
+  
 # 📖 Documentations:
 - **[GitOsOs](https://github.com/mossssama/GitOsOs)** : Cheat Sheet el-Ghalaba for git Commands
 - **[Android](https://github.com/mossssama/AndroidJavaClasses)** : Useful Generic repos for Android Development in Java & Kotlin
 
-# 📖 Illustration:
+# 📖 Illustrations:
 - **[Flutter In Action](https://github.com/mossssama/flutterInAction)** : Useful Illustration of Flutter In Action book in bullets
 
 # 🌐 Tutors:
