@@ -1,14 +1,15 @@
 # 💫 About Me:
 Mobile Developer @FEDIS | DECI Instructor @alMentor | Online Tutor
 # 📱 Previous Projects:
-| Project Name | Languages/Tools | Description                                                               | ReadMe                                              | AmazonAppStore                                                                  |
+| Project Name | Languages/Tools | Description                                                               | ReadMe                                              | AmazonAppStore/WatchDemo                                                                  |
 |---------------|-----------------|--------------------------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------------------------------|
-| **_Quotivate_** | Jetpack Compose | Quotes app that provides dynamic quotes                                  | [**open**](https://github.com/mossssama/Quotivate)  | [**try**](https://play.google.com/store/apps/details?id=com.newOs.quotivate)  |
-|**_Color Craze_**| Kotlin + XML    | Game that tests brain & eyes comptability while playing                  | [**open**](https://github.com/mossssama/ColorGame)  | [**try**](https://www.amazon.com/gp/product/B0DF5W6WT3) |
-|**_CaptureRise_**| Kotlin + XML    | Alarm that keeps ringing until the user capture a specific asked object  | [**open**](https://github.com/mossssama/CaptureRise)| [**try**](https://play.google.com/store/apps/details?id=com.newOs.captureRise)|
+| **_Cairo Explorer_** | Flutter    | Navigation app through Cairo using Metro,Lrt & Monorail in the future    | [**itsClosedSource**](https://github.com/mossssama)  | [**watch**](https://www.youtube.com/watch?v=sJhpMydvyo8)  |
+| **_Quotivate_** | Jetpack Compose | Quotes app that provides dynamic quotes                                  | [**open**](https://github.com/mossssama/Quotivate)  | [**try**](https://www.amazon.in/mossssama-Quotivate/dp/B0DGZQ9CVJ)  |
+|**_Color Craze_**| Kotlin + XML    | Game that tests brain & eyes comptability while playing                  | [**open**](https://github.com/mossssama/ColorGame)  | [**try**](https://www.amazon.ca/mossssama-ColorCraze/dp/B0DF5W6WT3) |
+|**_CaptureRise_**| Kotlin + XML    | Alarm that keeps ringing until the user capture a specific asked object  | [**open**](https://github.com/mossssama/CaptureRise)| [**try**](https://www.amazon.in/mossssama-CaptureRise/dp/B0DGZ7VKKD)|
 | **_Tawsila_**   | Java + XML      | Public transport navigation app for Great Cairo                          | [**open**](https://github.com/HaidyGamal/GP-AndroidApp)  | [**watch**](https://www.youtube.com/watch?v=ogHvqx3w7lY)                  |
-| **_Notella_**   | Java + XML      | Creative well separated Notes to increase productivity                   | [**open**](https://github.com/mossssama/Notella)    | [**try**](https://play.google.com/store/apps/details?id=com.mOssssama.notesapp) |
-| **_DoIt!_**     | Flutter         | Daily to-do app for creating/editing/deleting/tracking to-dos | [**open**](https://github.com/mossssama/DoIt) | [**try**](https://play.google.com/store/apps/details?id=com.newOs.doIt)  |
+| **_Notella_**   | Java + XML      | Creative well separated Notes to increase productivity                   | [**open**](https://github.com/mossssama/Notella)    | [**-**](https://github.com/mossssama) |
+| **_DoIt!_**     | Flutter         | Daily to-do app for creating/editing/deleting/tracking to-dos | [**open**](https://github.com/mossssama/DoIt) | [**try**](https://www.amazon.in/mossssama-DoIt/dp/B0DGZXZXGW)  |
 
 # 📖 Packages:
 - **[Rectangular Stepper](https://pub.dev/packages/rectangular_stepper)** : A customizable and visually appealing widget for creating horizontal step indicators with support for sub-steps
